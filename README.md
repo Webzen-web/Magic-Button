@@ -1,6 +1,6 @@
 # Magic Button ⚡
 
-## [Watch it on youtube](https://youtu.be/cIKhz0VxXRA?si=kxH5at6TusFV0QpP)
+## [Watch it on youtube](https://youtu.be/TQ8ciFXKdfA)
 ### Animation Button ⚡
 
 Beautiful project style button with animation using HTML & CSS
