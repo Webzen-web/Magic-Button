@@ -7,4 +7,4 @@ Beautiful project style button with animation using HTML & CSS
 
 Join the channel to see more videos like this. [WebZenn](https://www.youtube.com/@WebZenn)
 
-![](/cover.cover-Magic-Button.jpg)
+![](/cover-Maic-Button.jpg.jpg)
