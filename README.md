@@ -1,7 +1,7 @@
-# Magic Button ⚡
+# Magic Button
 
 ## [Watch it on youtube](https://youtu.be/TQ8ciFXKdfA)
-### Animation Button ⚡
+### Animation Button
 
 Beautiful project style button with animation using HTML & CSS
 
